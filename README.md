@@ -1,6 +1,10 @@
 <h1 align = center>TF-Droid</h1>
 
 <p align="center">
+<img src="app\src\main\res\mipmap-xxxhdpi\ic_launcher.png">
+</p>
+
+<p align="center">
 <a href="https://github.com/priyanshnama/TF-Droid/blob/master/LICENSE.txt" target="blank">
 <img src="https://img.shields.io/github/license/priyanshnama/TF-Droid?style=flat-square" alt="TF-Droid licence" />
 </a>
@@ -28,7 +32,14 @@ This is a Android Application to be used during Technical Fests in college to fa
 ---
 
 ## MADE BY
-[priyanshnama](https://github.com/priyanshnama) and [Shivam Saurav Jha](https://github.com/shivamsouravjha)
+
+<p><a href = "https://github.com/priyanshnama">
+<img src="https://avatars.githubusercontent.com/priyanshnama" width = 50> Priyansh Nama
+</a></p>
+
+<p><a href = "https://github.com/shivamsouravjha">
+<img src="https://avatars.githubusercontent.com/shivamsouravjha" width = 50> Shivam Saurav Jha
+</a></p>
 ---
 
 ## Screenshots

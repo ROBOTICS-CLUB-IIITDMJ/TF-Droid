@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TF-Droid</string>
+    <string name="predict">Predict</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="preview_of_image">preview of image</string>
+
+    <string-array name="models">
+        <item>Cat Vs Dog</item>
+        <item>Identify Number</item>
+    </string-array>
+</resources>

@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener {
 
     private var preview : ImageView? = null
     private var modelList : Spinner? = null
-    private val mInputSize = 224
+    private var mInputSize = 224
     private lateinit var classifier: Classifier
     private var model = ""
 
@@ -40,10 +40,14 @@ class MainActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener {
     }
 
     override fun onItemSelected(parent: AdapterView<*>, view: View?, pos: Int, id: Long) {
-        if(pos==0)
+        if(pos==0) {
             model = "cat_vs_dog"
-        else if(pos==1)
+            mInputSize = 224
+        }
+        else if(pos==1) {
             model = "identify_number"
+            mInputSize = 64
+        }
         classifier = Classifier(assets, model+ "/model.tflite", model+"/label.txt", mInputSize)
     }
 

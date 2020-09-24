@@ -22,8 +22,7 @@
 </a>
 </p>
 
-This is a Android Application to be used during Technical Fests in college to facilate it's fucntioning.
-
+Your Homeland App to Host and Test Your Tensorflow Lite Models.
 ## Built Using
 - [KOTLIN](https://kotlinlang.org/)
 - [Android Studio](https://developer.android.com/studio)

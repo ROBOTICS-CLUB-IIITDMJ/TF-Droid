@@ -1,7 +1,7 @@
 <h1 align = center>TF-Droid</h1>
 
 <p align="center">
-<img src="app\src\main\res\mipmap-xxxhdpi\ic_launcher.png">
+<img src="https://raw.githubusercontent.com/priyanshnama/TF-Droid/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 </p>
 
 <p align="center">
@@ -27,7 +27,6 @@ Your Homeland App to Host and Test Your Tensorflow Lite Models.
 - [KOTLIN](https://kotlinlang.org/)
 - [Android Studio](https://developer.android.com/studio)
 - [TENSORFLOW LITE](https://www.tensorflow.org/lite)
-
 ---
 
 ## MADE BY
@@ -37,15 +36,27 @@ Your Homeland App to Host and Test Your Tensorflow Lite Models.
 </a></p>
 
 <p><a href = "https://github.com/shivamsouravjha">
-<img src="https://avatars.githubusercontent.com/shivamsouravjha" width = 50> Shivam Saurav Jha
+<img src="https://avatars.githubusercontent.com/shivamsouravjha" width = 50> Shivam Sourav Jha
 </a></p>
+
+---
+
+## Features
+
+1. **Cat vs Dog Classifier** - Dog Vs Cat classification is one of the standard and similar project done by enthusiasts of Deep learning. The basic model of this classification upon few enhancements can make highly accurate classifiers. In this project we tried to deploy our model on Android by the help of tensorflow lite. The Dog Vs  Cat classification is trained on the training set and deployed on Tf.lite
+
+2. **Number Identifier** - Specially  abled people who can't speak communicate via hand signals. They have separate code for each word ,number and alphabet. To classify the numbers from 1-10 to make it easy for others as well this hard digit Recognizer is made. (Has Conflicts kindly see issues for the same)
+
 ---
 
 ## Screenshots
 These screenshots visualize current state of app so it might change as it still is in development state.
 
-![light](/screenshots/light.jpg)
-![night](/screenshots/night.jpg)
+![light](https://raw.githubusercontent.com/priyanshnama/TF-Droid/master/screenshots/light.jpg)
+![night](https://raw.githubusercontent.com/priyanshnama/TF-Droid/master/screenshots/night.jpg)
+
+![light-2](https://raw.githubusercontent.com/priyanshnama/TF-Droid/master/screenshots/light-2.jpg)
+![night-2](https://raw.githubusercontent.com/priyanshnama/TF-Droid/master/screenshots/night-2.jpg)
 
 ---
 ## How to Contribute
@@ -55,7 +66,6 @@ These screenshots visualize current state of app so it might change as it still 
 - Want a feature 
 - have some errors or bugs
 - App is not functioning in the depicted way
-- Firebase Problems
 - Have any idea to contribute and make this all better
 
 ---

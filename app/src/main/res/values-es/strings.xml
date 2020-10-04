@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TF-Droid</string>
+    <string name="predict">Predecir</string>
+    <string name="choose_image">Elige una imagen</string>
+    <string name="preview_of_image">Vista previa de la imagen</string>
+    <string name="ask_image">Por favor, selecciona una imagen</string>
+
+    <string-array name="models">
+        <item>Gato Vs Perro</item>
+        <item>Número de identificación</item>
+    </string-array>
+</resources>

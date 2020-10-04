@@ -74,7 +74,7 @@ class MainActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener {
             val result = classifier.recognizeImage(bitmap)
             runOnUiThread { Toast.makeText(this, result[0].title, Toast.LENGTH_SHORT).show() }
         }catch (e : ClassCastException){
-            runOnUiThread { Toast.makeText(this, getString(R.strings.ask_image), Toast.LENGTH_SHORT).show() }
+            runOnUiThread { Toast.makeText(this, getString(R.string.ask_image), Toast.LENGTH_SHORT).show() }
         }
     }
 }

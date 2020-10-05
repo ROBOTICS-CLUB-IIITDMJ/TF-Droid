@@ -3,6 +3,7 @@
     <string name="predict">Predict</string>
     <string name="choose_image">Choose Image</string>
     <string name="preview_of_image">preview of image</string>
+    <string name="ask_image">Please select an image</string>
 
     <string-array name="models">
         <item>Cat Vs Dog</item>

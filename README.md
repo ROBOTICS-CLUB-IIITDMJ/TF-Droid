@@ -1,24 +1,24 @@
 <h1 align = center>TF-Droid</h1>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/priyanshnama/TF-Droid/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+<img src="https://raw.githubusercontent.com/ROBOTICS-CLUB-IIITDMJ/TF-Droid/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 </p>
 
 <p align="center">
-<a href="https://github.com/priyanshnama/TF-Droid/blob/master/LICENSE.txt" target="blank">
-<img src="https://img.shields.io/github/license/priyanshnama/TF-Droid?style=flat-square" alt="TF-Droid licence" />
+<a href="https://github.com/ROBOTICS-CLUB-IIITDMJ/TF-Droid/blob/master/LICENSE.txt" target="blank">
+<img src="https://img.shields.io/github/license/ROBOTICS-CLUB-IIITDMJ/TF-Droid?style=flat-square" alt="TF-Droid licence" />
 </a>
-<a href="https://github.com/priyanshnama/TF-Droid/fork" target="blank">
-<img src="https://img.shields.io/github/forks/priyanshnama/TF-Droid?style=flat-square" alt="TF-Droid forks"/>
+<a href="https://github.com/ROBOTICS-CLUB-IIITDMJ/TF-Droid/fork" target="blank">
+<img src="https://img.shields.io/github/forks/ROBOTICS-CLUB-IIITDMJ/TF-Droid?style=flat-square" alt="TF-Droid forks"/>
 </a>
-<a href="https://github.com/priyanshnama/TF-Droid/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/priyanshnama/TF-Droid?style=flat-square" alt="TF-Droid stars"/>
+<a href="https://github.com/ROBOTICS-CLUB-IIITDMJ/TF-Droid/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/ROBOTICS-CLUB-IIITDMJ/TF-Droid?style=flat-square" alt="TF-Droid stars"/>
 </a>
-<a href="https://github.com/priyanshnama/TF-Droid/issues" target="blank">
-<img src="https://img.shields.io/github/issues/priyanshnama/TF-Droid?style=flat-square" alt="TF-Droid issues"/>
+<a href="https://github.com/ROBOTICS-CLUB-IIITDMJ/TF-Droid/issues" target="blank">
+<img src="https://img.shields.io/github/issues/ROBOTICS-CLUB-IIITDMJ/TF-Droid?style=flat-square" alt="TF-Droid issues"/>
 </a>
-<a href="https://github.com/priyanshnama/TF-Droid/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/priyanshnama/TF-Droid?style=flat-square" alt="TF-Droid pull-requests"/>
+<a href="https://github.com/ROBOTICS-CLUB-IIITDMJ/TF-Droid/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/ROBOTICS-CLUB-IIITDMJ/TF-Droid?style=flat-square" alt="TF-Droid pull-requests"/>
 </a>
 </p>
 
@@ -52,11 +52,11 @@ Your Homeland App to Host and Test Your Tensorflow Lite Models.
 ## Screenshots
 These screenshots visualize current state of app so it might change as it still is in development state.
 
-![light](https://raw.githubusercontent.com/priyanshnama/TF-Droid/master/screenshots/light.jpg)
-![night](https://raw.githubusercontent.com/priyanshnama/TF-Droid/master/screenshots/night.jpg)
+![light](https://raw.githubusercontent.com/ROBOTICS-CLUB-IIITDMJ/TF-Droid/master/screenshots/light.jpg)
+![night](https://raw.githubusercontent.com/ROBOTICS-CLUB-IIITDMJ/TF-Droid/master/screenshots/night.jpg)
 
-![light-2](https://raw.githubusercontent.com/priyanshnama/TF-Droid/master/screenshots/light-2.jpg)
-![night-2](https://raw.githubusercontent.com/priyanshnama/TF-Droid/master/screenshots/night-2.jpg)
+![light-2](https://raw.githubusercontent.com/ROBOTICS-CLUB-IIITDMJ/TF-Droid/master/screenshots/light-2.jpg)
+![night-2](https://raw.githubusercontent.com/ROBOTICS-CLUB-IIITDMJ/TF-Droid/master/screenshots/night-2.jpg)
 
 ---
 ## How to Contribute
